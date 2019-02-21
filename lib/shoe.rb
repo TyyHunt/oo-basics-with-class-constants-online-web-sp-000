@@ -14,9 +14,6 @@ class Shoe
 
   def brand
     @brand
-    if @brand != brand
-      BRANDS << brand
-    end
   end
 
 end
